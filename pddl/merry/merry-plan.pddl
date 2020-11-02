@@ -103,6 +103,6 @@
             (na p7 k7)
             (na p8 k8)
             (czlowiek g)
-        );
+        )
     )
 )
