@@ -1,0 +1,1156 @@
+<object-stream>
+<org.drools.core.audit.WorkingMemoryLog>
+  <version>6.1</version>
+  <events>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Init [0]</activationId>
+      <rule>Init</rule>
+      <declarations></declarations>
+      <factHandleIds>0</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Init [0]</activationId>
+      <rule>Init</rule>
+      <declarations></declarations>
+      <factHandleIds>0</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>1</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@4a14c44f</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>2</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@56f521c6</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>3</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@680a66dd</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>4</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@2dd8239</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>5</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@472698d</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>6</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@7b7683d4</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>7</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@40712ee9</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>8</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@2e53b094</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>9</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@39fa8ad2</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>10</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@76ddd61a</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>11</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@3f92a84e</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>12</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@cf67838</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>13</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@6137cf6e</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>14</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@7942a854</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>15</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@53b8afea</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>16</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@6c302a1d</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>17</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@33a3c44a</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>18</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@5fcfca62</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>19</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@499ef98e</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>20</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@24934262</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>21</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@93f432e</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>22</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@288214b1</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>23</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@16eedaa6</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>24</factId>
+      <objectToString>com.sample.DroolsTest$Relacja@28501a4b</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Init [0]</activationId>
+      <rule>Init</rule>
+      <declarations></declarations>
+      <factHandleIds>0</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [22]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@288214b1</declarations>
+      <factHandleIds>22</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [21]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@93f432e</declarations>
+      <factHandleIds>21</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [18]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@5fcfca62</declarations>
+      <factHandleIds>18</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [17]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@33a3c44a</declarations>
+      <factHandleIds>17</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [14]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7942a854</declarations>
+      <factHandleIds>14</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [13]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6137cf6e</declarations>
+      <factHandleIds>13</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [9]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@39fa8ad2</declarations>
+      <factHandleIds>9</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [8]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2e53b094</declarations>
+      <factHandleIds>8</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [7]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@40712ee9</declarations>
+      <factHandleIds>7</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [3]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@680a66dd</declarations>
+      <factHandleIds>3</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [2]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@56f521c6</declarations>
+      <factHandleIds>2</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta0 [1]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@4a14c44f</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [22]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@288214b1</declarations>
+      <factHandleIds>22</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [22]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@288214b1</declarations>
+      <factHandleIds>22</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [21]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@93f432e</declarations>
+      <factHandleIds>21</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [21]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@93f432e</declarations>
+      <factHandleIds>21</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [18]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@5fcfca62</declarations>
+      <factHandleIds>18</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [18]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@5fcfca62</declarations>
+      <factHandleIds>18</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [17]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@33a3c44a</declarations>
+      <factHandleIds>17</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [17]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@33a3c44a</declarations>
+      <factHandleIds>17</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [14]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7942a854</declarations>
+      <factHandleIds>14</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [14]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7942a854</declarations>
+      <factHandleIds>14</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [13]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6137cf6e</declarations>
+      <factHandleIds>13</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [13]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6137cf6e</declarations>
+      <factHandleIds>13</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [9]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@39fa8ad2</declarations>
+      <factHandleIds>9</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [9]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@39fa8ad2</declarations>
+      <factHandleIds>9</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [8]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2e53b094</declarations>
+      <factHandleIds>8</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [8]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2e53b094</declarations>
+      <factHandleIds>8</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [7]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@40712ee9</declarations>
+      <factHandleIds>7</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [7]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@40712ee9</declarations>
+      <factHandleIds>7</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [3]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@680a66dd</declarations>
+      <factHandleIds>3</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [3]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@680a66dd</declarations>
+      <factHandleIds>3</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [2]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@56f521c6</declarations>
+      <factHandleIds>2</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [2]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@56f521c6</declarations>
+      <factHandleIds>2</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta0 [1]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@4a14c44f</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta0 [1]</activationId>
+      <rule>Kobieta0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@4a14c44f</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [24]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@28501a4b</declarations>
+      <factHandleIds>24</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [22]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@288214b1</declarations>
+      <factHandleIds>22</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [16]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6c302a1d</declarations>
+      <factHandleIds>16</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [14]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7942a854</declarations>
+      <factHandleIds>14</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [11]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@3f92a84e</declarations>
+      <factHandleIds>11</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [10]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@76ddd61a</declarations>
+      <factHandleIds>10</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [8]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2e53b094</declarations>
+      <factHandleIds>8</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [7]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@40712ee9</declarations>
+      <factHandleIds>7</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [5]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@472698d</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Kobieta1 [2]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@56f521c6</declarations>
+      <factHandleIds>2</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [24]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@28501a4b</declarations>
+      <factHandleIds>24</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [24]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@28501a4b</declarations>
+      <factHandleIds>24</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [22]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@288214b1</declarations>
+      <factHandleIds>22</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [22]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@288214b1</declarations>
+      <factHandleIds>22</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [16]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6c302a1d</declarations>
+      <factHandleIds>16</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [16]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6c302a1d</declarations>
+      <factHandleIds>16</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [14]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7942a854</declarations>
+      <factHandleIds>14</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [14]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7942a854</declarations>
+      <factHandleIds>14</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [11]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@3f92a84e</declarations>
+      <factHandleIds>11</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [11]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@3f92a84e</declarations>
+      <factHandleIds>11</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [10]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@76ddd61a</declarations>
+      <factHandleIds>10</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [10]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@76ddd61a</declarations>
+      <factHandleIds>10</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [8]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2e53b094</declarations>
+      <factHandleIds>8</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [8]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2e53b094</declarations>
+      <factHandleIds>8</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [7]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@40712ee9</declarations>
+      <factHandleIds>7</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [7]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@40712ee9</declarations>
+      <factHandleIds>7</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [5]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@472698d</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [5]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@472698d</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Kobieta1 [2]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@56f521c6</declarations>
+      <factHandleIds>2</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Kobieta1 [2]</activationId>
+      <rule>Kobieta1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@56f521c6</declarations>
+      <factHandleIds>2</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [24]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@28501a4b</declarations>
+      <factHandleIds>24</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [23]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@16eedaa6</declarations>
+      <factHandleIds>23</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [20]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@24934262</declarations>
+      <factHandleIds>20</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [19]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@499ef98e</declarations>
+      <factHandleIds>19</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [16]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6c302a1d</declarations>
+      <factHandleIds>16</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [15]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@53b8afea</declarations>
+      <factHandleIds>15</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [12]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@cf67838</declarations>
+      <factHandleIds>12</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [11]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@3f92a84e</declarations>
+      <factHandleIds>11</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [10]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@76ddd61a</declarations>
+      <factHandleIds>10</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [6]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7b7683d4</declarations>
+      <factHandleIds>6</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [5]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@472698d</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna0 [4]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2dd8239</declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [24]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@28501a4b</declarations>
+      <factHandleIds>24</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [24]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@28501a4b</declarations>
+      <factHandleIds>24</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [23]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@16eedaa6</declarations>
+      <factHandleIds>23</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [23]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@16eedaa6</declarations>
+      <factHandleIds>23</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [20]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@24934262</declarations>
+      <factHandleIds>20</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [20]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@24934262</declarations>
+      <factHandleIds>20</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [19]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@499ef98e</declarations>
+      <factHandleIds>19</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [19]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@499ef98e</declarations>
+      <factHandleIds>19</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [16]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6c302a1d</declarations>
+      <factHandleIds>16</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [16]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6c302a1d</declarations>
+      <factHandleIds>16</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [15]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@53b8afea</declarations>
+      <factHandleIds>15</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [15]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@53b8afea</declarations>
+      <factHandleIds>15</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [12]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@cf67838</declarations>
+      <factHandleIds>12</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [12]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@cf67838</declarations>
+      <factHandleIds>12</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [11]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@3f92a84e</declarations>
+      <factHandleIds>11</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [11]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@3f92a84e</declarations>
+      <factHandleIds>11</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [10]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@76ddd61a</declarations>
+      <factHandleIds>10</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [10]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@76ddd61a</declarations>
+      <factHandleIds>10</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [6]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7b7683d4</declarations>
+      <factHandleIds>6</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [6]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7b7683d4</declarations>
+      <factHandleIds>6</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [5]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@472698d</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [5]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@472698d</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna0 [4]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2dd8239</declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna0 [4]</activationId>
+      <rule>Mezczyzna0</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2dd8239</declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [23]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@16eedaa6</declarations>
+      <factHandleIds>23</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [21]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@93f432e</declarations>
+      <factHandleIds>21</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [20]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@24934262</declarations>
+      <factHandleIds>20</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [19]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@499ef98e</declarations>
+      <factHandleIds>19</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [18]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@5fcfca62</declarations>
+      <factHandleIds>18</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [17]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@33a3c44a</declarations>
+      <factHandleIds>17</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [15]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@53b8afea</declarations>
+      <factHandleIds>15</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [13]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6137cf6e</declarations>
+      <factHandleIds>13</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [12]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@cf67838</declarations>
+      <factHandleIds>12</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [9]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@39fa8ad2</declarations>
+      <factHandleIds>9</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [6]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7b7683d4</declarations>
+      <factHandleIds>6</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [4]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2dd8239</declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [3]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@680a66dd</declarations>
+      <factHandleIds>3</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Mezczyzna1 [1]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@4a14c44f</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [23]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@16eedaa6</declarations>
+      <factHandleIds>23</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [23]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@16eedaa6</declarations>
+      <factHandleIds>23</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [21]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@93f432e</declarations>
+      <factHandleIds>21</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [21]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@93f432e</declarations>
+      <factHandleIds>21</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [20]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@24934262</declarations>
+      <factHandleIds>20</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [20]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@24934262</declarations>
+      <factHandleIds>20</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [19]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@499ef98e</declarations>
+      <factHandleIds>19</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [19]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@499ef98e</declarations>
+      <factHandleIds>19</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [18]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@5fcfca62</declarations>
+      <factHandleIds>18</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [18]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@5fcfca62</declarations>
+      <factHandleIds>18</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [17]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@33a3c44a</declarations>
+      <factHandleIds>17</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [17]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@33a3c44a</declarations>
+      <factHandleIds>17</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [15]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@53b8afea</declarations>
+      <factHandleIds>15</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [15]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@53b8afea</declarations>
+      <factHandleIds>15</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [13]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6137cf6e</declarations>
+      <factHandleIds>13</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [13]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@6137cf6e</declarations>
+      <factHandleIds>13</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [12]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@cf67838</declarations>
+      <factHandleIds>12</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [12]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@cf67838</declarations>
+      <factHandleIds>12</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [9]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@39fa8ad2</declarations>
+      <factHandleIds>9</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [9]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@39fa8ad2</declarations>
+      <factHandleIds>9</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [6]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7b7683d4</declarations>
+      <factHandleIds>6</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [6]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@7b7683d4</declarations>
+      <factHandleIds>6</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [4]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2dd8239</declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [4]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@2dd8239</declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [3]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@680a66dd</declarations>
+      <factHandleIds>3</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [3]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@680a66dd</declarations>
+      <factHandleIds>3</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Mezczyzna1 [1]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@4a14c44f</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Mezczyzna1 [1]</activationId>
+      <rule>Mezczyzna1</rule>
+      <declarations>r=com.sample.DroolsTest$Relacja@4a14c44f</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+  </events>
+</org.drools.core.audit.WorkingMemoryLog>
+</object-stream>
