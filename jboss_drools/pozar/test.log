@@ -1,0 +1,189 @@
+<object-stream>
+<org.drools.core.audit.WorkingMemoryLog>
+  <version>6.1</version>
+  <events>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>1</factId>
+      <objectToString>com.sample.DroolsTest$Straz@72725ee1</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>init [0]</activationId>
+      <rule>init</rule>
+      <declarations></declarations>
+      <factHandleIds>0</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>init [0]</activationId>
+      <rule>init</rule>
+      <declarations></declarations>
+      <factHandleIds>0</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>2</factId>
+      <objectToString>com.sample.DroolsTest$Pomiar@5c1f6d57</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>3</factId>
+      <objectToString>com.sample.DroolsTest$Pomiar@f288c14</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>init [0]</activationId>
+      <rule>init</rule>
+      <declarations></declarations>
+      <factHandleIds>0</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Pozar [0]</activationId>
+      <rule>Pozar</rule>
+      <declarations></declarations>
+      <factHandleIds>3,0</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Pozar [0]</activationId>
+      <rule>Pozar</rule>
+      <declarations></declarations>
+      <factHandleIds>3,0</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>4</factId>
+      <objectToString>com.sample.DroolsTest$Pozar@2cfa2c4f</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Pozar [0]</activationId>
+      <rule>Pozar</rule>
+      <declarations></declarations>
+      <factHandleIds>3,0</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Komunikat [4]</activationId>
+      <rule>Komunikat</rule>
+      <declarations></declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Komunikat [4]</activationId>
+      <rule>Komunikat</rule>
+      <declarations></declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Komunikat [4]</activationId>
+      <rule>Komunikat</rule>
+      <declarations></declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Telefon [4]</activationId>
+      <rule>Telefon</rule>
+      <declarations></declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Telefon [4]</activationId>
+      <rule>Telefon</rule>
+      <declarations></declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>5</factId>
+      <objectToString>com.sample.DroolsTest$Telefon@2a066689</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Telefon [4]</activationId>
+      <rule>Telefon</rule>
+      <declarations></declarations>
+      <factHandleIds>4</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Zadzwon [5]</activationId>
+      <rule>Zadzwon</rule>
+      <declarations>tel=com.sample.DroolsTest$Telefon@2a066689</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Zadzwon [5]</activationId>
+      <rule>Zadzwon</rule>
+      <declarations>tel=com.sample.DroolsTest$Telefon@2a066689</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Zadzwon [5]</activationId>
+      <rule>Zadzwon</rule>
+      <declarations>tel=com.sample.DroolsTest$Telefon@2a066689</declarations>
+      <factHandleIds>5</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Straz [1, 4]</activationId>
+      <rule>Straz</rule>
+      <declarations>pozar=com.sample.DroolsTest$Pozar@2cfa2c4f</declarations>
+      <factHandleIds>4,1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Straz [1, 4]</activationId>
+      <rule>Straz</rule>
+      <declarations>pozar=com.sample.DroolsTest$Pozar@2cfa2c4f</declarations>
+      <factHandleIds>4,1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>4</factId>
+      <objectToString>com.sample.DroolsTest$Pozar@2cfa2c4f</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Straz [1, 4]</activationId>
+      <rule>Straz</rule>
+      <declarations></declarations>
+      <factHandleIds>4,1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>4</type>
+      <activationId>Odjazd strazy [1]</activationId>
+      <rule>Odjazd strazy</rule>
+      <declarations>straz=com.sample.DroolsTest$Straz@72725ee1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>6</type>
+      <activationId>Odjazd strazy [1]</activationId>
+      <rule>Odjazd strazy</rule>
+      <declarations>straz=com.sample.DroolsTest$Straz@72725ee1</declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>1</factId>
+      <objectToString>com.sample.DroolsTest$Straz@72725ee1</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ActivationLogEvent>
+      <type>7</type>
+      <activationId>Odjazd strazy [1]</activationId>
+      <rule>Odjazd strazy</rule>
+      <declarations></declarations>
+      <factHandleIds>1</factHandleIds>
+    </org.drools.core.audit.event.ActivationLogEvent>
+  </events>
+</org.drools.core.audit.WorkingMemoryLog>
+</object-stream>
