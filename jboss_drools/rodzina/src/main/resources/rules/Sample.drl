@@ -110,7 +110,7 @@ rule "Matka"
 		r : Relacja( osoby[0].imie.endsWith("a") == true, relacja == "rodzic" )
 	then
 		insert(new Relacja(r.osoby[0], r.osoby[1] ,"matka"));
-		System.out.println(r.osoby[0] + " jest matk¹ " + r.osoby[1]);
+		System.out.println(r.osoby[0] + " jest matkï¿½ " + r.osoby[1]);
 end
 
 rule "Dziadek"
@@ -128,7 +128,7 @@ rule "Babcia"
 		w : Relacja(r.osoby[1] == osoby[0], relacja == "rodzic")
 	then
 		insert(new Relacja(r.osoby[0], w.osoby[1] ,"babcia"));
-		System.out.println(r.osoby[0] + " jest babci¹ " + w.osoby[1]);
+		System.out.println(r.osoby[0] + " jest babciï¿½ " + w.osoby[1]);
 end
 
 rule "Brat"
@@ -148,7 +148,7 @@ rule "Siostra"
 		not Relacja(r.osoby[1] == osoby[0], w.osoby[1] == osoby[1], relacja == "siostra")
 	then
 		insert(new Relacja(r.osoby[1], w.osoby[1] ,"siostra"));
-		System.out.println(r.osoby[1] + " jest siostr¹ " + w.osoby[1]);	
+		System.out.println(r.osoby[1] + " jest siostrï¿½ " + w.osoby[1]);	
 end
 
 rule "Stryj"
